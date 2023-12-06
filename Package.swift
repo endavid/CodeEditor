@@ -15,7 +15,7 @@ let package = Package(
   ],
   
   dependencies: [
-    .package(url: "https://github.com/raspu/Highlightr", from: "2.1.2")
+    .package(url: "https://github.com/endavid/Highlightr", branch: "main")
   ],
            
   targets: [
